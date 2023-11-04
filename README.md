@@ -10,7 +10,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,java,php,py,html,js,mysql,sqlite,tailwind,bootstrap,materialize,flask,git,github,docker,postman,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,css,java,php,py,html,js,mysql,sqlite,tailwind,bootstrap,flask,git,github,docker,postman,eclipse,vscode" />
   </a>
 </p>
 <br>
