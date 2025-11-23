@@ -9,6 +9,6 @@
 <h2 align="center">Stacks 👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,java,php,py,html,js,mysql,sqlite,tailwind,bootstrap,flask,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=vue,ts,astro,fastapi,flask,py,js,mysql,sqlite,tailwind,bootstrap,css,java,docker,postman,figma,eclipse,vscode" />
   </a>
 </p>
