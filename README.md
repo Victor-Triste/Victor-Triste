@@ -1,14 +1,34 @@
 
-<h1 align="center">¡Hi! I'm Victor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Victor 👋</h1>
 
+<p align="center">
+Full Stack Developer specializing in Laravel, Vue.js and TypeScript
+</p>
+
+<p align="center">
+Building healthcare, business and enterprise software solutions with a focus on clean architecture, scalability and user experience.
+</p>
 
 ---
 
-<p align="center" style="font-size: 20px;"><b>"I'm committed to furthering my professional journey."</b></p>
+### Tech Stack
 
-<h2 align="center">Stacks 👨🏻‍💻</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,ts,astro,fastapi,flask,py,js,mysql,sqlite,tailwind,bootstrap,css,java,docker,postman,figma,eclipse,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vue,ts,laravel,python,fastapi,js,mysql,docker,tailwind,git,vscode" />
 </p>
+
+### Currently Working On
+
+- Hospital Management System
+- Pharmacy POS Platform
+- Electronic Invoicing (CFDI 4.0)
+- API Integrations
+- Medical Documentation Systems
+
+### Interests
+
+- Software Architecture
+- Laravel Ecosystem
+- Vue.js
+- Docker
+- Healthcare Technology
